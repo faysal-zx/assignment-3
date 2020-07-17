@@ -36,4 +36,4 @@ function tinyFriend(names) {
     }, words[0]);
     return shortest;
   }
-  console.log(tinyFriend("Tony, Stark, Lio, Josieph"));
+  console.log(tinyFriend("Omi, Inan, Shim, Shahid"));
